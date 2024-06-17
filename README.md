@@ -1,5 +1,5 @@
-## abstract-fns
-# Some useful abstract functions in the Racket language
+# abstract-fns
+## Some useful abstract functions in the Racket language
 
 This repository contains functions in [Racket](docs.racket-lang.org).
 These functions are abstractions of repetitive procedures, such as asking
